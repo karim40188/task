@@ -1,6 +1,3 @@
-Here's a brief README file that covers your project setup, approach, challenges, and instructions to run it locally.
-
----
 
 # Ecommerce
 
